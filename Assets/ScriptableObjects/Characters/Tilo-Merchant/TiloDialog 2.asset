@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4aa8b11543f21245ae34e1838cec1f0, type: 3}
+  m_Name: TiloDialog 2
+  m_EditorClassIdentifier: 
+  dialogId: 0
+  characterBelongsTo: {fileID: 11400000, guid: f39098bc174dbb34391d638881b1d29c, type: 2}
+  dialogText: ...Take a look.
+  positiveResponse: 
+  negativeResponse: 
+  inquisitiveResponse: Good bye
+  positiveDialogResponse: {fileID: 0}
+  NegativeDialogResponse: {fileID: 0}
+  inquisitiveDialogResponse: {fileID: 11400000, guid: d458d071f294339449e004be94faac97, type: 2}
+  endOfDialog: 0
+  quest: {fileID: 11400000, guid: bf390a311b9bb314ab7b8e92b179536a, type: 2}
+  hasSpecialInteraction: 1

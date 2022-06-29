@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4aa8b11543f21245ae34e1838cec1f0, type: 3}
+  m_Name: EarlDialog_1
+  m_EditorClassIdentifier: 
+  dialogId: 21
+  characterBelongsTo: {fileID: 11400000, guid: f5212d88bad42af488a84173feab5e46, type: 2}
+  dialogText: "Hey you, with the weapon! Could you please clear the path up ahead,
+    it\u2019s full of monsters, I need to return tot he Kingdom."
+  positiveResponse: "Okay I\u2019ll try my best."
+  negativeResponse: 
+  inquisitiveResponse: 
+  positiveDialogResponse: {fileID: 11400000, guid: 9910b2cc15d5cdf4ca8be24b8f5af072, type: 2}
+  NegativeDialogResponse: {fileID: 0}
+  inquisitiveDialogResponse: {fileID: 0}
+  endOfDialog: 0
+  quest: {fileID: 0}
+  hasSpecialInteraction: 0

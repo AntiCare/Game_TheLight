@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4aa8b11543f21245ae34e1838cec1f0, type: 3}
+  m_Name: TerranisDialog 2
+  m_EditorClassIdentifier: 
+  dialogId: 0
+  characterBelongsTo: {fileID: 11400000, guid: bab2ab299a854de41a98d9045708b388, type: 2}
+  dialogText: 'I''ve witnessed the damage your kind has made. This is the last piece
+    of forest that remains in this land, far away from your pollution.  '
+  positiveResponse: 'Maybe I can help you? '
+  negativeResponse: 
+  inquisitiveResponse: Enough of this.
+  positiveDialogResponse: {fileID: 11400000, guid: 7fa7ef52ab6fba74ba50699e9cb9f985, type: 2}
+  NegativeDialogResponse: {fileID: 0}
+  inquisitiveDialogResponse: {fileID: 11400000, guid: dd4cfa7493aa225479ffa2b5e802f8b9, type: 2}
+  endOfDialog: 0
+  quest: {fileID: 0}
+  hasSpecialInteraction: 0

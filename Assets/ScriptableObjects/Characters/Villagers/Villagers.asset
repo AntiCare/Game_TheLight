@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: Villagers
+  m_EditorClassIdentifier: 
+  characterId: 7
+  characterName: Villagers
+  characterSprite: {fileID: 21300000, guid: be633e1337a27f64286f962948668f7e, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: 3d2432bbdf6f21942a3a4267eac81d19, type: 3}
+  characterObject: {fileID: 7799137247169759835, guid: e21fca31e547a5449b52dc6952b40de5, type: 3}
+  notes:
+  - {fileID: 11400000, guid: 7d1659568cb59a14ca186b11fda7acbf, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: 85775035d13f8d645ada5b17fb402330, type: 2}
+  - {fileID: 11400000, guid: 3036976f9644a414695770ad59c4e946, type: 2}
+  - {fileID: 11400000, guid: 3ddfe00768bccf64caa429b02137ad9e, type: 2}
+  - {fileID: 11400000, guid: 082765190620b974e9f6865fbd148d46, type: 2}
+  - {fileID: 11400000, guid: 35ccfe64107400b4ca1eef25abd29925, type: 2}

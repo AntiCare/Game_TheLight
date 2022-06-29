@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb14057f94d14d20904212bd15a9ee11, type: 3}
+  m_Name: Invetigate
+  m_EditorClassIdentifier: 
+  text: Investigate the forest in the mountains
+  _isCompleted: 0
+  _started: 0
+  QuestEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  characterToTalkTo: {fileID: 11400000, guid: bab2ab299a854de41a98d9045708b388, type: 2}
+  belongsToQuest: {fileID: 11400000, guid: 63640e661d7831644ad323aeda814a7a, type: 2}

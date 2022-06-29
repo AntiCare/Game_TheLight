@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edcf0d60d35934d8d387bada0dbdc0, type: 3}
+  m_Name: RobinNote_2
+  m_EditorClassIdentifier: 
+  noteId: 5
+  noteContents: Robin mentioned he saw a page wedged in a ROCK with my father's handwritting.
+    I must search the STONEHENGES at the SOUTH WEST
+  notePageImage: {fileID: 0}
+  characterBelongsTo: {fileID: 11400000, guid: 6d1c49e7d94f3834bb3d4d827df1f611, type: 2}
+  notePage: {fileID: 0}

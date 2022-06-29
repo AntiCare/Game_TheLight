@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4aa8b11543f21245ae34e1838cec1f0, type: 3}
+  m_Name: LeviDialog_1
+  m_EditorClassIdentifier: 
+  dialogId: 41
+  characterBelongsTo: {fileID: 11400000, guid: 55c56e4ccdaeed0498d86b261ad55fb5, type: 2}
+  dialogText: Hey kid, what's are you doing here all alone? Go back where you came
+    from.
+  positiveResponse: "I\u2019m Looking for my father. he\u2019s also a hunter. "
+  negativeResponse: 
+  inquisitiveResponse: 
+  positiveDialogResponse: {fileID: 11400000, guid: ecb357747b089f7438a728e7665c7244, type: 2}
+  inquisitiveDialogResponse: {fileID: 0}
+  endOfDialog: 0

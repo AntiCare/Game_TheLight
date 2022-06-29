@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: TerranisPlantFlower
+  m_EditorClassIdentifier: 
+  characterId: 6
+  characterName: Terranis
+  characterSprite: {fileID: 21300000, guid: 3b1dd344eb5f35947bc5693d1d67bfb6, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: 772abcf193f5cc54c8242284154e4604, type: 3}
+  characterObject: {fileID: 329248287672774351, guid: 23c894d471d35454c8075e753a8a8000, type: 3}
+  notes:
+  - {fileID: 11400000, guid: 98db4bc87d7430e42a73e93c5397aa35, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: 20ad14f65cbf43b46a3d6bddc3987445, type: 2}

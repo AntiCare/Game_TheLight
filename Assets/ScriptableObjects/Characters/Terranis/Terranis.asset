@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: Terranis
+  m_EditorClassIdentifier: 
+  characterId: 4
+  characterName: 
+  characterSprite: {fileID: 21300000, guid: 3b1dd344eb5f35947bc5693d1d67bfb6, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: 772abcf193f5cc54c8242284154e4604, type: 3}
+  characterObject: {fileID: 329248287672774351, guid: 23c894d471d35454c8075e753a8a8000, type: 3}
+  notes:
+  - {fileID: 11400000, guid: 98db4bc87d7430e42a73e93c5397aa35, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: 547c6b689cc48ac4fb9957f24b73aad6, type: 2}
+  - {fileID: 11400000, guid: 33c70ac1e4345464a91872ffcdc89fd7, type: 2}
+  - {fileID: 11400000, guid: 7fa7ef52ab6fba74ba50699e9cb9f985, type: 2}
+  - {fileID: 11400000, guid: 47248d9fc0ed61247b0846d2ea03b46b, type: 2}
+  - {fileID: 11400000, guid: 62406af13ddc0994299b8dd71f797788, type: 2}
+  - {fileID: 11400000, guid: 9f8da6288d4cd1f4c8db0c199551a7bb, type: 2}
+  - {fileID: 11400000, guid: b7de5c851eaa59646b7cc1f0416f0c60, type: 2}
+  - {fileID: 11400000, guid: 8023104acff9a6b4e98a1354c7995bf9, type: 2}
+  - {fileID: 11400000, guid: 8bbc38b6d04534040be30aabd9455308, type: 2}
+  - {fileID: 11400000, guid: 8926a60b15df0834fafc0cd757619c1a, type: 2}
+  - {fileID: 11400000, guid: f437cbe197ca9ae40aac61d1139932bc, type: 2}
+  - {fileID: 11400000, guid: dd4cfa7493aa225479ffa2b5e802f8b9, type: 2}
+  - {fileID: 11400000, guid: 2047adf996be6144ea7c993615804360, type: 2}
+  quests: []

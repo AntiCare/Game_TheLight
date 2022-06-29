@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc446da0e77512b459ca9434aaed5a3a, type: 3}
+  m_Name: Terranis Flower Quest
+  m_EditorClassIdentifier: 
+  questId: 10
+  questName: Plant the black flower
+  questDescription: Restore some power to Terranis. Plant the flower.
+  reward: 10
+  isMainQuest: 0
+  objectives:
+  - {fileID: 11400000, guid: 8aa1229d2f2b8a3488969918180d9974, type: 2}
+  - {fileID: 11400000, guid: 3ed244e6b47a5a44790ba79eb87469e2, type: 2}
+  - {fileID: 11400000, guid: 8c4c88cc479c7cc4e9dd99cc03f8fa52, type: 2}
+  nextQuest: {fileID: 11400000}
+  _giver: {fileID: 11400000, guid: bab2ab299a854de41a98d9045708b388, type: 2}
+  _isActive: 1

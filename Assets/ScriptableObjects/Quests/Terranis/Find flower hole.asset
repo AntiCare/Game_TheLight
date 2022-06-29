@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a56beca8ae4ea8b8ba330b66d24998, type: 3}
+  m_Name: Find flower hole
+  m_EditorClassIdentifier: 
+  text: Find a good place for a flower near the village
+  _isCompleted: 0
+  _started: 1
+  QuestEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  destination: {x: 0, y: 0}
+  offset: {x: 5, y: 5}
+  locationToDiscover: {fileID: 11400000, guid: dbc1eb5bfdc90e6419bb486b6d68c8b7, type: 2}
+  locationId: 4
+  belongsToQuest: {fileID: 11400000, guid: e75687cb31bfd1b49a3712a55b5df239, type: 2}
+  _player: {fileID: 0}

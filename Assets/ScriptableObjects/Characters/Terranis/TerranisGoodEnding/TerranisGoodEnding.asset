@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: TerranisGoodEnding
+  m_EditorClassIdentifier: 
+  characterId: 5
+  characterName: 
+  characterSprite: {fileID: 21300000, guid: 8178aad87a4d86d4d80980fc26f7582b, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: a405acdd9e4a614439c46bc7e23c675a, type: 3}
+  characterObject: {fileID: 7799137247169759835, guid: 5c3bd57c51bc4db4c9c82b16ff49e4d8, type: 3}
+  notes:
+  - {fileID: 11400000, guid: 98db4bc87d7430e42a73e93c5397aa35, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: f69974ba66942c445a58b19e1632767a, type: 2}
+  - {fileID: 11400000, guid: f923ccda94e7685438f431b0f3598f19, type: 2}
+  - {fileID: 11400000, guid: fcbe17fdf561ea4409d0c598d89eacbb, type: 2}
+  - {fileID: 11400000, guid: 318be25c1e314a042a9d9c17d4472e25, type: 2}
+  - {fileID: 11400000, guid: e82b0582554db534594c7979636b1a75, type: 2}
+  - {fileID: 11400000, guid: 8a00aadca7a4f86499ce537ebc5cdd59, type: 2}

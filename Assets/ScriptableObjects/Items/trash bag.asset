@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760862d4e555c894481bb3be60a93a03, type: 3}
+  m_Name: trash bag
+  m_EditorClassIdentifier: 
+  id: 9
+  itemName: Garbage bag
+  itemSprite: {fileID: 21300000, guid: ff20cd272aeb9b3499996e73634967a3, type: 3}
+  price: 0
+  sellPrice: 2
+  itemWeight: 0
+  item: {fileID: 1188499863119916563, guid: ca48885cbdeb05f4983872c53df945e8, type: 3}
+  canUse: 0
+  canRemove: 1
+  questItem: 0
+  consumeAmount: 0
+  itemDescription: Dont know what'sinside.

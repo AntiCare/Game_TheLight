@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb14057f94d14d20904212bd15a9ee11, type: 3}
+  m_Name: Talk To Terranis after flower
+  m_EditorClassIdentifier: 
+  text: Return to Terranis
+  _isCompleted: 1
+  _started: 1
+  QuestEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  characterToTalkTo: {fileID: 11400000, guid: 1ae9f78e703588b489425580b0dca3a8, type: 2}
+  belongsToQuest: {fileID: 11400000, guid: e75687cb31bfd1b49a3712a55b5df239, type: 2}

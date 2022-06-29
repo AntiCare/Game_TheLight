@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: Earl
+  m_EditorClassIdentifier: 
+  characterId: 3
+  characterName: Earl
+  characterSprite: {fileID: 21300000, guid: e93d7def60f9a7b458b44603ed552364, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: 13ca19c929f5d0b40a13c72061a6fe93, type: 3}
+  characterObject: {fileID: 7799137247169759835, guid: 99e83ec3cdc18f5499ff135a292a8a42, type: 3}
+  notes:
+  - {fileID: 11400000, guid: 8bac0671c82697341916aa57b486e5ef, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: f6fdbe5b8993bd74789f1ed5639aa141, type: 2}
+  - {fileID: 11400000, guid: 9910b2cc15d5cdf4ca8be24b8f5af072, type: 2}
+  quests: []

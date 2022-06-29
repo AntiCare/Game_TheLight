@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc446da0e77512b459ca9434aaed5a3a, type: 3}
+  m_Name: Prove yourself
+  m_EditorClassIdentifier: 
+  questId: 2
+  questName: Prove Yourself
+  questDescription: Take care of a few pest.
+  reward: 5
+  isMainQuest: 0
+  objectives:
+  - {fileID: 11400000, guid: b5eddfdf45ad0b548882370feefd9992, type: 2}
+  nextQuest: {fileID: 11400000}
+  _giver: {fileID: 11400000, guid: 55c56e4ccdaeed0498d86b261ad55fb5, type: 2}
+  _isActive: 0

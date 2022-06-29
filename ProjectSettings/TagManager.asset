@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIManager
+  - Enemy
+  - NPC
+  - Item
+  - InventoryImage
+  - UseButton
+  - RemoveButton
+  - ItemAmountText
+  - Arrow
+  - EnemyDamage
+  - MiniMapCamera
+  - SavePoint
+  - Tree
+  - Barrel
+  - Barrels
+  - GorillaDamage
+  - DiscoverManager
+  - DialogManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Item
+  - Map
+  - Arrow
+  - DairyPage
+  - Minimap
+  - Area
+  - Weather
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 433746925
+    locked: 0
+  - name: Player
+    uniqueID: 3261464231
+    locked: 0
+  - name: NPC
+    uniqueID: 825580043
+    locked: 0
+  - name: Building
+    uniqueID: 932008937
+    locked: 0
+  - name: InFrontOfBuilding
+    uniqueID: 456834985
+    locked: 0
+  - name: Tree
+    uniqueID: 3121466585
+    locked: 0
+  - name: Mountain
+    uniqueID: 2509640291
+    locked: 0
+  - name: Icon
+    uniqueID: 3804318705
+    locked: 0
+  - name: New Layer
+    uniqueID: 3865046331
+    locked: 0
+  - name: Color1
+    uniqueID: 2507939865
+    locked: 0
+  - name: MountainWithLight
+    uniqueID: 4143859767
+    locked: 0

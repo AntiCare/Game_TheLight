@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4aa8b11543f21245ae34e1838cec1f0, type: 3}
+  m_Name: TerranisGoodEndingDialog3
+  m_EditorClassIdentifier: 
+  dialogId: 0
+  characterBelongsTo: {fileID: 11400000, guid: 1ae9f78e703588b489425580b0dca3a8, type: 2}
+  dialogText: 'Hmmm, there was a man that tried to steal my earth rune, but failed.
+    Maybe that was him. '
+  positiveResponse: 'Why would he want to steal your rune? '
+  negativeResponse: 
+  inquisitiveResponse: 
+  positiveDialogResponse: {fileID: 11400000, guid: e82b0582554db534594c7979636b1a75, type: 2}
+  NegativeDialogResponse: {fileID: 0}
+  inquisitiveDialogResponse: {fileID: 0}
+  endOfDialog: 0
+  quest: {fileID: 0}
+  hasSpecialInteraction: 0

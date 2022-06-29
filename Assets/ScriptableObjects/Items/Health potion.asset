@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760862d4e555c894481bb3be60a93a03, type: 3}
+  m_Name: Health potion
+  m_EditorClassIdentifier: 
+  id: 2
+  itemName: Health potion
+  itemSprite: {fileID: 21300000, guid: 7c5fc2cbf2712a84fb7ea0e6db205c35, type: 3}
+  price: 5
+  sellPrice: 3
+  itemWeight: 0.2
+  item: {fileID: 1188499863119916563, guid: 21e9e4a8ee49e6b4cb812cedc0eadca0, type: 3}
+  canUse: 1
+  canRemove: 1
+  questItem: 0
+  consumeAmount: 5
+  itemDescription: A potion that can heal me when I get hurt.

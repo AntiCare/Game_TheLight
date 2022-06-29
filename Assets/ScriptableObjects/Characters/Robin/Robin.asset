@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b954df1b82fe544a7b6e4714c65c93, type: 3}
+  m_Name: Robin
+  m_EditorClassIdentifier: 
+  characterId: 1
+  characterName: Robin
+  characterSprite: {fileID: 21300000, guid: 96f053bea0c24d64cabc59eb90e197a0, type: 3}
+  characterNoteSprite: {fileID: 21300000, guid: f1cbcea810c6ae640a1be86fcc2b95f6, type: 3}
+  characterObject: {fileID: 7799137247169759835, guid: ee71659e34ba1c540bef9017e059a287, type: 3}
+  notes:
+  - {fileID: 11400000, guid: a68e2e76915b77747abf23a4b8488241, type: 2}
+  - {fileID: 11400000, guid: 53744125098d84c4fbe2b8a2b72a768d, type: 2}
+  dialog:
+  - {fileID: 11400000, guid: aa77e97b65993cd40ad8e9e478e5f899, type: 2}
+  - {fileID: 11400000, guid: 5e35d1c4783cda745961eda6073845ec, type: 2}
+  - {fileID: 11400000, guid: 28d8fc76c85405d45afe36b8830087eb, type: 2}
+  - {fileID: 11400000, guid: 328fa511f88c76746abe11d523de1663, type: 2}
+  - {fileID: 11400000, guid: a072509362c5f244483a10a7abf47dba, type: 2}
+  - {fileID: 11400000, guid: 1110a42346c4d164b93fa2200e34fdb8, type: 2}
+  - {fileID: 11400000, guid: ce3a45735c6e1cc4f87c58f2f8d3ab91, type: 2}
+  - {fileID: 11400000, guid: 644418a2993f3cc47826d91f072e09ed, type: 2}
+  - {fileID: 11400000, guid: d79eeb950b3f5a84c8045c3e93c3b385, type: 2}
+  - {fileID: 11400000, guid: 590a1a2fcdd2aa14889fbd53cdf6664d, type: 2}

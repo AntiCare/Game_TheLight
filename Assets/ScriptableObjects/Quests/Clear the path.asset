@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc446da0e77512b459ca9434aaed5a3a, type: 3}
+  m_Name: Clear the path
+  m_EditorClassIdentifier: 
+  questId: 0
+  questName: Clearing a path
+  questDescription: Make way for the Earl to get to the village
+  reward: 5
+  isMainQuest: 0
+  objectives:
+  - {fileID: 11400000, guid: bc43a38d5286d0b4ea878607f1ca2f5a, type: 2}
+  nextQuest: {fileID: 0}
+  _giver: {fileID: 11400000, guid: f5212d88bad42af488a84173feab5e46, type: 2}
+  _isActive: 0
